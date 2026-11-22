@@ -1,31 +1,11 @@
-# Information needed before publishing
+# Still needed before sharing the site widely
 
-**Personal**
-- [ ] Email address; LinkedIn URL; current location
-- [ ] Availability / notice period; UAE work authorisation or relocation status (only what you want public)
-- [ ] Your own CV as PDF (`assets/Nazia-Nishat-Tonni-CV.pdf`)
-- [ ] GitHub username and repository name
-
-**Employment (each of the three roles)**
-- [ ] Exact start and end dates
-- [ ] Verified responsibilities (3-5 each)
-- [ ] Achievements, with numbers only if you can evidence them
-- [ ] Tools actually used in each role
-- [ ] Confirm wording: employer 24/7 Recruitment, assignment DHL Supply Chain; QC and Internal Auditor via IRS at World of Books; Workforce Planning Executive at Angard Staffing (Royal Mail operation)
-- [ ] Confirm you are allowed to name each client site publicly
-
-**Education and skills**
-- [ ] Qualifications, institutions, years, status (also confirm you are studying/studied SHRM before saying so)
-- [ ] Excel level, in your own honest words
-- [ ] Skills you are currently developing; training and certificates
-
-**Projects and evidence**
-- [ ] Which independent projects you will actually do, with status labels
-- [ ] Sources and data for each, no invented results
-- [ ] Any analysis from work you are permitted to share (confidential data removed)
-- [ ] Any research summaries or articles for the Insights page
-
-**Final check**
-- [ ] Search the project for `PLACEHOLDER` and `editor-note`: zero left
-- [ ] Replace the URL, email, LinkedIn and 404 base values (see README)
-- [ ] Open the live site on phone and desktop; click every link
+- [ ] Availability, notice period, right-to-work or relocation details
+- [ ] Your real CV as `assets/Nazia-Nishat-Tonni-CV.pdf`
+- [ ] Portrait and gallery photos (`assets/img/`)
+- [ ] Check the three figures: 400+ onboarded, 40% less manual HR admin, 100% compliance (all taken from your notes; keep only what you can evidence if asked)
+- [ ] Confirm what you may say about Vynora (what the company does, whether policy documents can be shown)
+- [ ] Confirm the earlier 24/7 Recruitment (DHL Supply Chain) HR Advisor role: it is not on the site now. Tell me if it should be added back, with dates.
+- [ ] Dissertation page: method, sample, findings, recommendations and limitations, exactly as in your dissertation; add your grade only if you want to
+- [ ] Skills you are developing
+- [ ] Delete the yellow editor-note boxes; search for `PLACEHOLDER` until none remain
