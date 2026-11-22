@@ -30,7 +30,7 @@ All links are relative, so the site works at `https://USERNAME.github.io/` and a
 ## Required edits after deploying (find and replace across all files)
 | Find | Replace with |
 |---|---|
-| `https://YOUR-USERNAME.github.io/REPO-NAME/` | Root site: `https://USERNAME.github.io/`  Project site: `https://USERNAME.github.io/REPO-NAME/` |
+| `https://tonninazianishat-lab.github.io/NaziaTonni/` | Root site: `https://USERNAME.github.io/`  Project site: `https://USERNAME.github.io/REPO-NAME/` |
 | `your.email@example.com` | your real email |
 | `https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/` | your LinkedIn URL |
 | `/REPO-NAME/` in `404.html` | Root site: `/`  Project site: `/REPO-NAME/` |
